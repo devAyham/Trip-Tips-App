@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Trip-Tips-App/static/css/main.3eee29dd.css",
+    "main.css": "/Trip-Tips-App/static/css/main.e44d1a14.css",
     "main.js": "/Trip-Tips-App/static/js/main.2e23062b.js",
     "static/js/787.291e9e49.chunk.js": "/Trip-Tips-App/static/js/787.291e9e49.chunk.js",
     "static/media/9.jpg": "/Trip-Tips-App/static/media/9.6a63bdc76c6860598637.jpg",
@@ -41,12 +41,12 @@
     "static/media/featurs5.svg": "/Trip-Tips-App/static/media/featurs5.fdfdcf47fb8e545f80bccce688328a84.svg",
     "index.html": "/Trip-Tips-App/index.html",
     "static/media/circlebg.svg": "/Trip-Tips-App/static/media/circlebg.e9acf6797499e6128b11.svg",
-    "main.3eee29dd.css.map": "/Trip-Tips-App/static/css/main.3eee29dd.css.map",
+    "main.e44d1a14.css.map": "/Trip-Tips-App/static/css/main.e44d1a14.css.map",
     "main.2e23062b.js.map": "/Trip-Tips-App/static/js/main.2e23062b.js.map",
     "787.291e9e49.chunk.js.map": "/Trip-Tips-App/static/js/787.291e9e49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eee29dd.css",
+    "static/css/main.e44d1a14.css",
     "static/js/main.2e23062b.js"
   ]
 }
