@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Trip-Tips-App/static/css/main.3eee29dd.css",
-    "main.js": "/Trip-Tips-App/static/js/main.548f1d7e.js",
+    "main.js": "/Trip-Tips-App/static/js/main.2e23062b.js",
     "static/js/787.291e9e49.chunk.js": "/Trip-Tips-App/static/js/787.291e9e49.chunk.js",
     "static/media/9.jpg": "/Trip-Tips-App/static/media/9.6a63bdc76c6860598637.jpg",
     "static/media/3.jpg": "/Trip-Tips-App/static/media/3.6dbbcd86320ac4107608.jpg",
@@ -37,15 +37,16 @@
     "static/media/featurs2.svg": "/Trip-Tips-App/static/media/featurs2.f509836086467804f7c54b06f5851ac8.svg",
     "static/media/linerbg.svg": "/Trip-Tips-App/static/media/linerbg.2e15288971c02b7b838b.svg",
     "static/media/featurs3.svg": "/Trip-Tips-App/static/media/featurs3.c09c9ca1c574e377343481ad24cfeaff.svg",
+    "static/media/featurs6.svg": "/Trip-Tips-App/static/media/featurs6.f575449198ac2699925642105e1012a1.svg",
     "static/media/featurs5.svg": "/Trip-Tips-App/static/media/featurs5.fdfdcf47fb8e545f80bccce688328a84.svg",
     "index.html": "/Trip-Tips-App/index.html",
     "static/media/circlebg.svg": "/Trip-Tips-App/static/media/circlebg.e9acf6797499e6128b11.svg",
     "main.3eee29dd.css.map": "/Trip-Tips-App/static/css/main.3eee29dd.css.map",
-    "main.548f1d7e.js.map": "/Trip-Tips-App/static/js/main.548f1d7e.js.map",
+    "main.2e23062b.js.map": "/Trip-Tips-App/static/js/main.2e23062b.js.map",
     "787.291e9e49.chunk.js.map": "/Trip-Tips-App/static/js/787.291e9e49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3eee29dd.css",
-    "static/js/main.548f1d7e.js"
+    "static/js/main.2e23062b.js"
   ]
 }
