@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Trip-Tips-App/static/css/main.c19d0cbe.css",
-    "main.js": "/Trip-Tips-App/static/js/main.cb9ef5f0.js",
+    "main.css": "/Trip-Tips-App/static/css/main.37dd1024.css",
+    "main.js": "/Trip-Tips-App/static/js/main.a8f0b4af.js",
     "static/js/787.291e9e49.chunk.js": "/Trip-Tips-App/static/js/787.291e9e49.chunk.js",
     "static/media/9.jpg": "/Trip-Tips-App/static/media/9.6a63bdc76c6860598637.jpg",
     "static/media/3.jpg": "/Trip-Tips-App/static/media/3.6dbbcd86320ac4107608.jpg",
@@ -16,6 +16,7 @@
     "static/media/weee1.jpg": "/Trip-Tips-App/static/media/weee1.2c3d081e85f044eb1bc3.jpg",
     "static/media/8.jpg": "/Trip-Tips-App/static/media/8.fbd65544a8278afed6ea.jpg",
     "static/media/6.jpg": "/Trip-Tips-App/static/media/6.e3fcc7625b9ed837752d.jpg",
+    "static/media/design.gif": "/Trip-Tips-App/static/media/design.757dd718c699d3360375.gif",
     "static/media/resturant.jfif": "/Trip-Tips-App/static/media/resturant.6a95b8879d3448c5ee2a.jfif",
     "static/media/5.jpg": "/Trip-Tips-App/static/media/5.49293219f14b0e74e96e.jpg",
     "static/media/lightnight.png": "/Trip-Tips-App/static/media/lightnight.058d2ca20e772c465cc1.png",
@@ -57,12 +58,12 @@
     "static/media/featurs5.svg": "/Trip-Tips-App/static/media/featurs5.fdfdcf47fb8e545f80bccce688328a84.svg",
     "index.html": "/Trip-Tips-App/index.html",
     "static/media/circlebg.svg": "/Trip-Tips-App/static/media/circlebg.e9acf6797499e6128b11.svg",
-    "main.c19d0cbe.css.map": "/Trip-Tips-App/static/css/main.c19d0cbe.css.map",
-    "main.cb9ef5f0.js.map": "/Trip-Tips-App/static/js/main.cb9ef5f0.js.map",
+    "main.37dd1024.css.map": "/Trip-Tips-App/static/css/main.37dd1024.css.map",
+    "main.a8f0b4af.js.map": "/Trip-Tips-App/static/js/main.a8f0b4af.js.map",
     "787.291e9e49.chunk.js.map": "/Trip-Tips-App/static/js/787.291e9e49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c19d0cbe.css",
-    "static/js/main.cb9ef5f0.js"
+    "static/css/main.37dd1024.css",
+    "static/js/main.a8f0b4af.js"
   ]
 }
