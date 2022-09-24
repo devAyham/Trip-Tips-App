@@ -1,8 +1,38 @@
 {
   "files": {
     "main.css": "/Trip-Tips-App/static/css/main.4b4768cb.css",
-    "main.js": "/Trip-Tips-App/static/js/main.b41e224c.js",
+    "main.js": "/Trip-Tips-App/static/js/main.2cf9e378.js",
+    "static/js/966.87ac2afe.chunk.js": "/Trip-Tips-App/static/js/966.87ac2afe.chunk.js",
+    "static/js/492.45211636.chunk.js": "/Trip-Tips-App/static/js/492.45211636.chunk.js",
+    "static/js/198.50a7b114.chunk.js": "/Trip-Tips-App/static/js/198.50a7b114.chunk.js",
+    "static/js/768.bd291abe.chunk.js": "/Trip-Tips-App/static/js/768.bd291abe.chunk.js",
+    "static/js/959.e50d35c1.chunk.js": "/Trip-Tips-App/static/js/959.e50d35c1.chunk.js",
+    "static/js/137.dae17e8b.chunk.js": "/Trip-Tips-App/static/js/137.dae17e8b.chunk.js",
+    "static/js/672.042b6f86.chunk.js": "/Trip-Tips-App/static/js/672.042b6f86.chunk.js",
+    "static/js/890.6fc14deb.chunk.js": "/Trip-Tips-App/static/js/890.6fc14deb.chunk.js",
+    "static/js/250.2422435c.chunk.js": "/Trip-Tips-App/static/js/250.2422435c.chunk.js",
+    "static/js/780.f1d1e95a.chunk.js": "/Trip-Tips-App/static/js/780.f1d1e95a.chunk.js",
+    "static/js/454.b6ee5ea0.chunk.js": "/Trip-Tips-App/static/js/454.b6ee5ea0.chunk.js",
+    "static/js/318.d89f0e98.chunk.js": "/Trip-Tips-App/static/js/318.d89f0e98.chunk.js",
+    "static/js/913.a7b3dd20.chunk.js": "/Trip-Tips-App/static/js/913.a7b3dd20.chunk.js",
+    "static/js/945.def67ec0.chunk.js": "/Trip-Tips-App/static/js/945.def67ec0.chunk.js",
+    "static/js/822.57b2359a.chunk.js": "/Trip-Tips-App/static/js/822.57b2359a.chunk.js",
+    "static/js/931.1e411e3c.chunk.js": "/Trip-Tips-App/static/js/931.1e411e3c.chunk.js",
+    "static/js/73.f66d65f7.chunk.js": "/Trip-Tips-App/static/js/73.f66d65f7.chunk.js",
+    "static/js/571.6567f08a.chunk.js": "/Trip-Tips-App/static/js/571.6567f08a.chunk.js",
+    "static/js/721.d69f1e27.chunk.js": "/Trip-Tips-App/static/js/721.d69f1e27.chunk.js",
+    "static/js/370.71a55a43.chunk.js": "/Trip-Tips-App/static/js/370.71a55a43.chunk.js",
+    "static/js/457.0809fb0a.chunk.js": "/Trip-Tips-App/static/js/457.0809fb0a.chunk.js",
     "static/js/27.337d35a3.chunk.js": "/Trip-Tips-App/static/js/27.337d35a3.chunk.js",
+    "static/js/627.46eb620a.chunk.js": "/Trip-Tips-App/static/js/627.46eb620a.chunk.js",
+    "static/js/243.4f2f7048.chunk.js": "/Trip-Tips-App/static/js/243.4f2f7048.chunk.js",
+    "static/js/783.70acb2ee.chunk.js": "/Trip-Tips-App/static/js/783.70acb2ee.chunk.js",
+    "static/js/875.71dc1183.chunk.js": "/Trip-Tips-App/static/js/875.71dc1183.chunk.js",
+    "static/js/220.cb95e686.chunk.js": "/Trip-Tips-App/static/js/220.cb95e686.chunk.js",
+    "static/js/395.f3624c0e.chunk.js": "/Trip-Tips-App/static/js/395.f3624c0e.chunk.js",
+    "static/js/306.1c4a65a5.chunk.js": "/Trip-Tips-App/static/js/306.1c4a65a5.chunk.js",
+    "static/js/290.56fd59d2.chunk.js": "/Trip-Tips-App/static/js/290.56fd59d2.chunk.js",
+    "static/js/229.8ca023da.chunk.js": "/Trip-Tips-App/static/js/229.8ca023da.chunk.js",
     "static/media/design.gif": "/Trip-Tips-App/static/media/design.757dd718c699d3360375.gif",
     "static/media/bankcard.png": "/Trip-Tips-App/static/media/bankcard.747c3eeab1a73de072e2.png",
     "static/media/xx.png": "/Trip-Tips-App/static/media/xx.d21cfec0a9bffb4eac97.png",
@@ -64,6 +94,6 @@
   },
   "entrypoints": [
     "static/css/main.4b4768cb.css",
-    "static/js/main.b41e224c.js"
+    "static/js/main.2cf9e378.js"
   ]
 }
