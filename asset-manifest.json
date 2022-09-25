@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Trip-Tips-App/static/css/main.289baf34.css",
-    "main.js": "/Trip-Tips-App/static/js/main.41112ae2.js",
+    "main.css": "/Trip-Tips-App/static/css/main.495c2815.css",
+    "main.js": "/Trip-Tips-App/static/js/main.b52cf506.js",
     "static/css/400.497c37f6.chunk.css": "/Trip-Tips-App/static/css/400.497c37f6.chunk.css",
     "static/js/400.a8b0e8a7.chunk.js": "/Trip-Tips-App/static/js/400.a8b0e8a7.chunk.js",
     "static/css/491.497c37f6.chunk.css": "/Trip-Tips-App/static/css/491.497c37f6.chunk.css",
-    "static/js/491.c598f793.chunk.js": "/Trip-Tips-App/static/js/491.c598f793.chunk.js",
+    "static/js/491.d82415f7.chunk.js": "/Trip-Tips-App/static/js/491.d82415f7.chunk.js",
     "static/js/493.da299aa7.chunk.js": "/Trip-Tips-App/static/js/493.da299aa7.chunk.js",
     "static/js/198.50a7b114.chunk.js": "/Trip-Tips-App/static/js/198.50a7b114.chunk.js",
     "static/js/768.bd291abe.chunk.js": "/Trip-Tips-App/static/js/768.bd291abe.chunk.js",
@@ -101,7 +101,7 @@
     "static/media/circlebg.svg": "/Trip-Tips-App/static/media/circlebg.e9acf6797499e6128b11.svg"
   },
   "entrypoints": [
-    "static/css/main.289baf34.css",
-    "static/js/main.41112ae2.js"
+    "static/css/main.495c2815.css",
+    "static/js/main.b52cf506.js"
   ]
 }
