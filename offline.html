@@ -20,6 +20,22 @@
                 justify-content: center;
                 align-items: center;
             }
+            .desc{
+                font-size: 20px;
+                color: #ffc831;
+            }
+            .retry{
+                text-decoration: none;
+                border: 1px solid white;
+                padding: 6px 8px;
+                border-radius: 5px;
+                transition: all 500ms;
+                color: white;
+            }
+            .retry:hover{
+                color: #ffc831;
+                background: #ffc831;
+            }
         </style>
     </head>
     <body>
@@ -119,10 +135,10 @@
                             </defs>
                         </svg>
                     </div>
-                    <p class="text-sm md:text-base text-yellow-300 p-2 mb-4">You aren't connected to a working internet
+                    <p class="text-sm md:text-base desc p-2 mb-4">You aren't connected to a working internet
                         connection</p>
                     <a href="/"
-                        class="bg-transparent hover:bg-yellow-300 text-yellow-300 hover:text-white rounded shadow hover:shadow-lg py-2 px-4 border border-yellow-300 hover:border-transparent">
+                        class=" Retry">
                         Retry</a>
                 </div>
             </div>
